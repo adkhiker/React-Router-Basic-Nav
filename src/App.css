@@ -1,9 +1,23 @@
+* {
+ background-color: #DAD4EF;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #818D92;
+}
+
+
 .App {
   text-align: center;
+  background-color: #DAD4EF;
 }
 
 .Nav-link {
   padding: 2rem;
+  
 }
 
 .nav-item {
